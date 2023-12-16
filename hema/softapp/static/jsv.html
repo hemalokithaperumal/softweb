@@ -1,0 +1,32 @@
+<html>
+<head>
+<script type="text/javascript">
+function show()
+{
+var n;
+n=Number(document.getElementById("num").value);
+if(n%2!=0)
+{
+if(n>=25)
+document.getElementById("answer").value=
+"Odd and Greater than 25";
+else
+document.getElementById("answer").value=
+"Odd and Lesser than 25";
+}
+else
+{
+document.getElementById("answer").value="Even";
+}
+}
+</script>
+</head>
+<body>
+<form>
+Enter Number:
+<input type="text" id="num">
+<input type="button" onclick="show()" value="Check">
+<input type="text" id="answer">
+</form>
+</body>
+</html>
