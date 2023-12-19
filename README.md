@@ -766,7 +766,7 @@ contact.html
         
         }
         body{
-      background: linear-gradient(rgb(67, 9, 70) , rgb(23, 23, 24) );
+      background: linear-gradient(rgb(28, 7, 79) , rgb(23, 23, 24) );
     }
     
 ul{
@@ -878,7 +878,7 @@ ul li a:hover{
         .info{
             position:absolute;
             top:44.3%;
-            font-size: 25px;
+            font-size: 16px;
             background-color: white;
             padding:70px 250px 95px 147px ;
             margin-left: 800px;
@@ -948,7 +948,7 @@ ul li a:hover{
 ![OUTPUT](<Screenshot (60).png>)
 ![OUTPUT](<Screenshot (61).png>)
 ![OUTPUT](<Screenshot (62).png>)
-![OUTPUT](<Screenshot 2023-12-16 221007.png>)
+![OUTPUT](<Screenshot 63.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
