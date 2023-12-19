@@ -945,10 +945,10 @@ ul li a:hover{
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (60).png>)
-![Alt text](<Screenshot (61).png>)
-![Alt text](<Screenshot (62).png>)
-![Alt text](<Screenshot 2023-12-16 221007.png>)
+![OUTPUT](<Screenshot (60).png>)
+![OUTPUT](<Screenshot (61).png>)
+![OUTPUT](<Screenshot (62).png>)
+![OUTPUT](<Screenshot 2023-12-16 221007.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
